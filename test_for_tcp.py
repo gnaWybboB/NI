@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # -*- coding: utf-8 -*-
 """
 Created on Mon Mar 28 22:28:29 2016
@@ -39,4 +38,3 @@ if __name__ == '__main__':
     #now change it to 9 version
     #got a new example
     #add another
->>>>>>> StrangeCloud9/master
